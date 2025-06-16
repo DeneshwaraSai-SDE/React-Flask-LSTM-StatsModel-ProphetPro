@@ -1,0 +1,2 @@
+GITHUB TOKEN - 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
+URL - https://assignment-5-flask-700937886554.us-central1.run.app
