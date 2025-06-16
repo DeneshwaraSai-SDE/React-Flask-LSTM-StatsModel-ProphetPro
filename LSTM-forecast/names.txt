@@ -1,0 +1,2 @@
+Bucket name - lstm-storage
+URL - https://lstm-pred-forecast-128813847309.us-central1.run.app/
